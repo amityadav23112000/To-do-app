@@ -1,0 +1,6 @@
+* {
+    /* rest style and box sizing border to  
+    include padding and border in  widh and height of element */
+    box-sizing: border-box;
+    margin: 0px;
+}
